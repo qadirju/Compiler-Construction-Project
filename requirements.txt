@@ -1,0 +1,13 @@
+# MiniScript Compiler - No External Dependencies Required
+# This project uses only Python standard library
+
+# Python Version: 3.7+
+# Standard Library Modules Used:
+# - enum (for token types)
+# - dataclasses (for AST nodes and tokens)
+# - typing (for type hints)
+# - re (for regular expressions)
+# - sys (for system operations)
+# - os (for file operations)
+
+# No additional packages required!
